@@ -32,7 +32,7 @@
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
 </p> -->
-<h3 align="left">AWS:</h3>
+<h4 align="left">AWS:</h4>
 <p align="left"><a href="https://youtu.be/_HYU-cAnYDQ" target="_blank">🔹 Cómo crear una instancia con Nginx en AWS.</a></p>
 
 
