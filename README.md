@@ -34,6 +34,7 @@
 </p> -->
 <h4 align="left">AWS:</h4>
 <p align="left"><a href="https://youtu.be/_HYU-cAnYDQ" target="_blank">🔹 Cómo crear una instancia con Nginx en AWS.</a></p>
+<p align="left"><a href="https://youtu.be/uYXcuXf7DKc" target="_blank">🔹 Explicando Classic Load Balancer y Application Load Balancer. </a></p>
 
 
 <h3 align="left">Sígueme en:</h3>
