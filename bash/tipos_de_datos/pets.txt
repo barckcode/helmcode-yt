@@ -1,0 +1,12 @@
+********************************************
+La persona dueña de las mascotas es: Helmcode
+Mascota01: arya
+Mascota02: grom
+Mascota03: cluster
+********************************************
+********************************************
+La persona dueña de las mascotas es: Sansa
+Mascota01: vim
+Mascota02: linux
+Mascota03: bash
+********************************************

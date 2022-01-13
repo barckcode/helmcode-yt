@@ -34,10 +34,10 @@ greeting=`echo "Hola Arya"`
 array_numbers=(1 10 7 999)
 
 # Arrays de strings:
-array_strings=(Arya, Tyrion, Frodo)
+array_strings=(Arya Tyrion Frodo)
 
-# Array de rangos:
-array_ranges=({A, B, C} {1 2 3})
+# Arrays de rangos:
+array_ranges=({A B C} {1 2 3})
 
 array_ranges_2=({A..Z} {1..9})
 ```
